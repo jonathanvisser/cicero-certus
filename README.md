@@ -1,2 +1,5 @@
 # presentations
-Root for all Cicero markdown presentations
+Templates for Cicero presentations.
+
+
+

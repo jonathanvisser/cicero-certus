@@ -7,7 +7,7 @@
 https://cicero.xyz/v3/remark/0.14.0/github.com/jonathanvisser/<REPO NAME>/master/<MARKDOWN FILE NAME>.md
 ```
 
-* Edit, check-in, and navigate to the link above to view.
-
+* Set image paths to full relative path. E.g. "customer-name/img/...". This will break the images until viewed online.
+* Edit, check-in, and navigate to the link above to view. 
 * Create a custom alias using https://tinyurl.com to share a pretty link.
 

@@ -5,12 +5,13 @@ class: background, center, middle
 
 # Subtitle
 
+.small.center[Author:   |   Version: draft v0.1]
+
 .logo[<img src="<full-relative-path>/img/logo.png"/>]
 
 ---
 layout: true
 <div id="footer-content"><p><strong>Fresh Ideas.</strong> Exceptional Outcomes.</p></div>
-
 ---
 
 
